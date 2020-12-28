@@ -3,7 +3,7 @@ resources:
   type: git
   icon: github
   source:
-    uri: git@github.com:USERNAME/examples.git
+    uri: git@github.com:ramguda/examples.git
 
 
 jobs:
